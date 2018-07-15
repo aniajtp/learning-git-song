@@ -1,3 +1,10 @@
+.sass-cache
+node_modules/
+css/
+images/
+js/
+sass/
+vendor/
 # Logs
 logs
 *.log
